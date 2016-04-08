@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1459630195 source:c:\users\draxtos\desktop\programacion\primer tp\trabajo parctico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"direccionFunciones.h"
+
+1459627708 c:\users\draxtos\desktop\programacion\primer tp\trabajo parctico\direccionfunciones.h
+	"C:\Users\DraxtoS\Desktop\Programacion\primer tp\Trabajo parctico\main funciones\main\main.c"
+
+1459630195 c:\users\draxtos\desktop\programacion\primer tp\trabajo parctico\main funciones\main\main.c
+	<stdio.h>
+	<conio.h>
+
